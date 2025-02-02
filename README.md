@@ -23,8 +23,8 @@ Welcome to **WebSecExplorers**, a collection of **small but powerful** projects 
 
 ## 🔗 Connect with Us  
 📢 **Telegram Channel:** [@WebSecExplorers](https://t.me/WebSecExplorers)  
-📩 **Contact:** [@YourTelegramID](https://t.me/Hunt4bugs)  
-🌍 **GitHub:** [Your GitHub Profile](https://github.com/Sorivm)
+📩 **Contact:** [@Hunt4bugs](https://t.me/Hunt4bugs)  
+🌍 **GitHub:** [Sorivm](https://github.com/Sorivm)
 
 ---
 
